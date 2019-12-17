@@ -1,11 +1,11 @@
 # Site settings
-author: Victoria Curl
-title: 
+author: Victoria 
+title: Making it to Software Engineer 
 header-img: img/home-bg.png
 email: victoriacurl9@gmail.com
-copyright_name: Victoria Curl
+copyright_name: Victoria 
 description: > # this means to ignore newlines until "baseurl:"
-  
+  A journey
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  victoriacurl
